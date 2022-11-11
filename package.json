@@ -1,0 +1,11 @@
+{
+  "name": "br_repl_remark_shortcuts",
+  "private": true,
+  "scripts": {
+    "repro": "remark --output -- test.md"
+  },
+  "devDependencies": {
+    "remark": "^14.0.2",
+    "remark-cli": "^11.0.0"
+  }
+}
